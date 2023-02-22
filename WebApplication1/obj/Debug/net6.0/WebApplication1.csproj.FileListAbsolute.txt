@@ -1,0 +1,99 @@
+E:\class practice\dotnet\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+E:\class practice\dotnet\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+E:\class practice\dotnet\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+E:\class practice\dotnet\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+E:\class practice\dotnet\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+E:\class practice\dotnet\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+E:\class practice\dotnet\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+E:\class practice\dotnet\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+E:\class practice\dotnet\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+E:\class practice\dotnet\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+E:\class practice\dotnet\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+E:\class practice\dotnet\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+E:\class practice\dotnet\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+E:\class practice\dotnet\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+E:\class practice\dotnet\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\class practice\dotnet\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\class practice\dotnet\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\class practice\dotnet\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\class practice\dotnet\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\class practice\dotnet\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\class practice\dotnet\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\class practice\dotnet\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\class practice\dotnet\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\class practice\dotnet\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\class practice\dotnet\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\class practice\dotnet\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+E:\class practice\dotnet\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+E:\class practice\dotnet\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+E:\class practice\dotnet\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+E:\class practice\dotnet\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+E:\class practice\dotnet\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+E:\class practice\dotnet\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+E:\class practice\dotnet\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+E:\class practice\dotnet\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+E:\class practice\dotnet\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+E:\class practice\dotnet\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+E:\class practice\dotnet\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+E:\class practice\dotnet\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\appsettings.json
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\Google.Protobuf.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\MySql.Data.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\ZstdNet.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\comerr64.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\gssapi64.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\k5sprt64.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\krb5_64.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\krbcc64.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\class practice\dotnet\WebApplicationImage - Copy\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
